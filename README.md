@@ -10,6 +10,8 @@ A monochrome pixel-art companion for Codex inspired by Emanon from *Memories of 
 
 She tilts her head back while smoking in a six-frame idle loop. The pose lasts about 2.34 seconds at the normal Codex idle cadence. The package uses the v2 companion format with nine animation states and 16 gaze directions.
 
+The idle sprite is now 188 pixels tall on the sprite sheet, up from 179 pixels.
+
 ### Install
 
 1. [Download the ZIP](downloads/emanon-codex-pet.zip?raw=true) and extract it.
@@ -21,6 +23,8 @@ She tilts her head back while smoking in a six-frame idle loop. The pose lasts a
 以梶尾真治原作、鹤田谦二作画的《回忆爱玛侬》为灵感制作的 Codex 黑白像素桌宠。 [漫画版本](https://bookwalker.jp/de9e83e41b-bd9c-4d2a-9aa9-7285209fb872/)
 
 待机时，爱玛侬会仰头抽烟。在 Codex 的常规待机节奏下，她会保持这个姿势约 2.34 秒。桌宠使用 v2 格式，包含 9 组动作和 16 个视线方向。
+
+新版待机贴图中的人物高度从 179 像素增至 188 像素。
 
 ### 安装
 
